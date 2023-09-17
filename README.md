@@ -1,8 +1,11 @@
-# React + Vite
+# React Toolkit Translate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+React Toolkit ile geliştirilen bu çeviri web sayfası, kullanıcıların metinleri hızlı ve kolay bir şekilde çevirmelerine olanak tanır. Modern ve kullanıcı dostu bir arayüzü olan bu platform, kullanıcıların diller arası geçiş yapmalarını ve metinleri istedikleri dilde anında görmelerini sağlar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bu çeviri uygulaması, React'in gücünü kullanarak hızlı bir şekilde çalışırken, Redux Toolkit ile yönetilen bir veri akışı sunar. Bu sayede kullanıcılar, çevirilerini kaydedebilir, çevrilen metinler üzerinde düzenlemeler yapabilir ve çeviri geçmişlerini yönetebilirler.
+
+Ayrıca, kullanıcıların çeviri işlemlerini daha da özelleştirmelerine yardımcı olan bir dizi dil seçeneği ve çeviri seçeneği sunar. React Toolkit'in sağladığı verimli kod yapısı, bu uygulamanın bakımını ve geliştirmesini kolaylaştırırken, hızlı ve duyarlı bir kullanıcı deneyimi sunar.
+
+Bu çeviri web sayfası, çeviri ihtiyaçlarınızı karşılamak için güçlü ve teknolojik bir çözüm sunar. Hızlı, verimli ve kullanıcı dostu bir araç olarak, metinlerinizi dilediğiniz dilde anında çevirmek artık daha kolay ve keyifli hale geliyor.
+
