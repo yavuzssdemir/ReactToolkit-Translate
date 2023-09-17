@@ -9,3 +9,4 @@ Ayrıca, kullanıcıların çeviri işlemlerini daha da özelleştirmelerine yar
 
 Bu çeviri web sayfası, çeviri ihtiyaçlarınızı karşılamak için güçlü ve teknolojik bir çözüm sunar. Hızlı, verimli ve kullanıcı dostu bir araç olarak, metinlerinizi dilediğiniz dilde anında çevirmek artık daha kolay ve keyifli hale geliyor.
 
+![toolkit-translate](https://github.com/yavuzssdemir/ReactToolkit-Translate/assets/111619682/f85577a6-ebf6-4a88-9826-88be132fe5e6)
